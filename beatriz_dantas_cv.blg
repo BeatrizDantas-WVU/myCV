@@ -1,9 +1,9 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: victor_alves_cv.aux
+The top-level auxiliary file: beatriz_dantas_cv.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: biblatex.bst
-Reallocating 'name_of_file' (item size: 1) to 20 items.
+Reallocating 'name_of_file' (item size: 1) to 22 items.
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -20,14 +20,14 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-Database file #1: victor_alves_cv-blx.bib
+Database file #1: beatriz_dantas_cv-blx.bib
 Database file #2: papers.bib
 Biblatex version: 3.18
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 You've used 3 entries,
             6399 wiz_defined-function locations,
-            1218 strings with 9423 characters,
+            1218 strings with 9429 characters,
 and the built_in function-call counts, 28671 in all, are:
 = -- 2463
 > -- 406
