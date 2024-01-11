@@ -16,5 +16,98 @@
   {}
 \endgroup
 
-\datalist[entry]{nty/global//global/global}\enddatalist
+\datalist[entry]{nty/global//global/global}
+  \entry{dantas2023process}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=DB}{%
+         family={Dantas},
+         familyi={D\bibinitperiod},
+         given={Beatriz},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Talan},
+         familyi={T\bibinitperiod},
+         given={Deniz},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LFV}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Fernando\bibnamedelima V},
+         giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {AIChE}%
+    }
+    \strng{namehash}{DBTDLFV1}
+    \strng{fullhash}{DBTDLFV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{booktitle}{2023 AIChE Annual Meeting}
+    \field{title}{Process Operability Analysis of the Recovery of Rare Earth
+  Elements from Coal Fly Ash}
+    \field{year}{2023}
+  \endentry
+
+  \entry{gama2022modeling}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GVV}{%
+         family={Gama},
+         familyi={G\bibinitperiod},
+         given={Vitor\bibnamedelima V},
+         giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dinh},
+         familyi={D\bibinitperiod},
+         given={San},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AV}{%
+         family={Alves},
+         familyi={A\bibinitperiod},
+         given={Victor},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=DBN}{%
+         family={Dantas},
+         familyi={D\bibinitperiod},
+         given={Beatriz\bibnamedelima NA},
+         giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=BBA}{%
+         family={Bishop},
+         familyi={B\bibinitperiod},
+         given={Brent\bibnamedelima A},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LFV}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Fernando\bibnamedelima V},
+         giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{GVV+1}
+    \strng{fullhash}{GVVDSAVDBNBBALFV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{7}
+    \field{pages}{316\bibrangedash 321}
+    \field{title}{Modeling and Process Operability Analysis ofa Direct Air
+  Capture System}
+    \field{volume}{55}
+    \field{journaltitle}{IFAC-PapersOnLine}
+    \field{year}{2022}
+  \endentry
+\enddatalist
 \endinput
