@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.8.31)  12 JAN 2024 13:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.8.31)  17 JAN 2024 15:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -602,17 +602,17 @@ Package logreq Info: Writing requests to 'beatriz_dantas_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19588 strings out of 476406
- 344485 string characters out of 2788151
+ 19604 strings out of 476406
+ 345198 string characters out of 2788151
  1879787 words of memory out of 3000000
- 39722 multiletter control sequences out of 15000+600000
+ 39736 multiletter control sequences out of 15000+600000
  518870 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,11n,77p,1968b,1729s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/bnd00011/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on beatriz_dantas_cv.pdf (2 pages, 144078 bytes).
+Output written on beatriz_dantas_cv.pdf (2 pages, 144793 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

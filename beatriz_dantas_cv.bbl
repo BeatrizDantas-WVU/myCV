@@ -16,7 +16,7 @@
   {}
 \endgroup
 
-\datalist[entry]{nty/global//global/global}
+\datalist[entry]{ydnt/global//global/global}
   \entry{dantas2023process}{inproceedings}{}
     \name{author}{3}{}{%
       {{hash=DB}{%
@@ -45,12 +45,126 @@
     \strng{fullhash}{DBTDLFV1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{D}
-    \field{sortinithash}{D}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
     \field{booktitle}{2023 AIChE Annual Meeting}
     \field{title}{Process Operability Analysis of the Recovery of Rare Earth
   Elements from Coal Fly Ash}
     \field{year}{2023}
+  \endentry
+
+  \entry{almeida2022comparative}{inproceedings}{}
+    \name{author}{7}{}{%
+      {{hash=AI}{%
+         family={Almeida},
+         familyi={A\bibinitperiod},
+         given={{\'I}caro},
+         giveni={{\'I}\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Dantas},
+         familyi={D\bibinitperiod},
+         given={Beatriz},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AF}{%
+         family={Andrade},
+         familyi={A\bibinitperiod},
+         given={Fernanda},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=RH}{%
+         family={Reges},
+         familyi={R\bibinitperiod},
+         given={Heloyse},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LW}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Wilton},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LFV}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Fernando\bibnamedelima V},
+         giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Bispo},
+         familyi={B\bibinitperiod},
+         given={Heleno},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {AIChE}%
+    }
+    \strng{namehash}{AI+1}
+    \strng{fullhash}{AIDBAFRHLWLFVBH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{2022 AIChE Annual Meeting}
+    \field{title}{Comparative Study for Evaluation of Thermal Integration
+  Projects Based on Pinch Technology}
+    \field{year}{2022}
+  \endentry
+
+  \entry{gadelha2022development}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=GE}{%
+         family={Gadelha},
+         familyi={G\bibinitperiod},
+         given={Esmael},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GI}{%
+         family={Guerra},
+         familyi={G\bibinitperiod},
+         given={Igor},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=ANA}{%
+         family={Almeida},
+         familyi={A\bibinitperiod},
+         given={Natalya\bibnamedelima AB},
+         giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Dantas},
+         familyi={D\bibinitperiod},
+         given={Beatriz},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LFV}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Fernando\bibnamedelima V},
+         giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Bispo},
+         familyi={B\bibinitperiod},
+         given={Heleno},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {AIChE}%
+    }
+    \strng{namehash}{GE+1}
+    \strng{fullhash}{GEGIANADBLFVBH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{2022 AIChE Annual Meeting}
+    \field{title}{Development and Application of Customized Symbols in PI
+  Vision for KPI Monitoring Based on the Greenscope Methodology}
+    \field{year}{2022}
   \endentry
 
   \entry{gama2022modeling}{article}{}
@@ -99,8 +213,8 @@
     \strng{fullhash}{GVVDSAVDBNBBALFV1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{sortinit}{G}
-    \field{sortinithash}{G}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
     \field{number}{7}
     \field{pages}{316\bibrangedash 321}
     \field{title}{Modeling and Process Operability Analysis ofa Direct Air
